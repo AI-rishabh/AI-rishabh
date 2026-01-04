@@ -4,10 +4,8 @@ Front-End Developer
 I am a front-end developer focused on building clean, responsive, and user-friendly web interfaces using modern web technologies.
 
 # About Me
-- Strong foundation in HTML, CSS, JavaScript, and React. 
-- Passionate about creating intuitive UI and smooth user experiences. 
-- Interested in performance, clean code, and scalable front-end architecture.  
-- Consistently learning and improving through real-world projects. 
+- Outside of code, you'll find me filming myself,hitting the gym or editing videos.
+- I'm also building a youtube channel and instagram account through my filmimg skills.  
 
 ## 🛠️ Tech Stack
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)  
