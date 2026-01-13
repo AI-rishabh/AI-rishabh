@@ -10,7 +10,7 @@ I am a front-end developer focused on building clean, responsive, and user-frien
 ## 🛠️ Tech Stack
 - **Languages:** HTML5, CSS3 (SCSS), JavaScript (ES6+)  
 - **Frameworks:** React
-- **Styling:** CSS, Tailwind CSS  
+- **Styling:** CSS Speacially SCSS  
 - **Tools:** Git, GitHub, VS Code  
 - **Others:** REST APIs, Axios, Responsive Design  
 
