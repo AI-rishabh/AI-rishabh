@@ -8,7 +8,7 @@ I am a front-end developer focused on building clean, responsive, and user-frien
 - I'm also building a youtube channel and instagram account through my filmimg skills.  
 
 ## 🛠️ Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)  
+- **Languages:** HTML5, CSS3 (SCSS), JavaScript (ES6+)  
 - **Frameworks:** React
 - **Styling:** CSS, Tailwind CSS  
 - **Tools:** Git, GitHub, VS Code  
